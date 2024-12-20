@@ -1,0 +1,5 @@
+package com.jsp.core.dto;
+
+public class ReadRequestDto {
+
+}
